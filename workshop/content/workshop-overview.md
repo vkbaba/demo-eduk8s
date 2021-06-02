@@ -1,1 +1,1 @@
-これはVMWare DevOps Meetup #9 のためのデモシナリオです。
+これはVMware DevOps Meetup #9 のためのデモシナリオです。
