@@ -9,5 +9,6 @@ spec:
   workshops:
   - name: lab-markdown-sample
     capacity: 1
-    expires: 60m
+    reserved: 1
+    expires: 1h
     orphaned: 5m
