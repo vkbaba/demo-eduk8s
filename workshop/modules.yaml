@@ -1,12 +1,12 @@
 modules:
     workshop-overview:
-        name: Workshop Overview
-        exit_sign: Setup Environment
+        name: ハンズオンの概要
+        exit_sign: 始める前に
     setup-environment:
-        name: Setup Environment
+        name: 始める前に
         exit_sign: Start Workshop
     exercises/01-sample-content:
-        name: Sample Content
+        name: Pod の作成
     workshop-summary:
-        name: Workshop Summary
+        name: サマリ
         exit_sign: Finish Workshop
